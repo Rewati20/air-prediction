@@ -76,8 +76,8 @@ st.write("### 🌡 Weather & Pollutant Levels")
 st.dataframe(row[["Temperature", "Humidity", "WindSpeed",
                   "PM2.5", "PM10", "NO2", "SO2", "CO", "O3"]].to_frame())
 
-st.metric("Actual AQI", f"{row['AQI']:.2f}")
-st.metric("Predicted AQI", f"{aqi:.2f}")
+st.metric("AQI", f"{row['AQI']:.2f}")
+
 
 # -------------------------------------------------------------
 # ✔ FUNCTION: Best Time to Go Outside
