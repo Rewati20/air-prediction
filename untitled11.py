@@ -162,3 +162,68 @@ ax.legend()
 st.pyplot(fig)
 
 st.success("Dashboard Loaded Successfully 🚀")
+
+# -------------------------------------------------------------
+# ⭐ WOW FEATURE: AI QUESTION BOX (ASK ANYTHING ABOUT GOING OUTSIDE)
+# -------------------------------------------------------------
+st.header("🤖 Ask AQI Assistant")
+
+user_question = st.text_input("Type your question (Example: 'Should I go outside?' or 'Which vehicle should I use?')")
+
+def answer_question(question, aqi_value):
+    question = question.lower()
+
+    # Direct Going Outside Logic
+    if "go outside" in question or "outside" in question or "go out" in question:
+        if aqi_value <= 80:
+            return "🟢 Yes! Air is clean and safe. You can go outside anytime."
+        elif aqi_value <= 150:
+            return "🟡 You can go outside, but avoid afternoons. Best time is 5 PM – 8 PM."
+        elif aqi_value <= 250:
+            return "🟠 Try to avoid going out. If needed, go between 9 PM – 5 AM."
+        else:
+            return "🔴 No! Air quality is dangerous. Avoid going outside today."
+
+    # Vehicle Advice
+    if "vehicle" in question or "car" in question or "bike" in question or "two wheeler" in question:
+        if aqi_value <= 80:
+            return "🟢 Use bike/scooter/car — everything is safe today."
+        elif aqi_value <= 150:
+            return "🟡 Prefer Metro, EV, or 2-wheelers. Avoid heavy cars."
+        else:
+            return "🔴 Avoid 4-wheelers. Use Metro or public transport only."
+
+    # Kids
+    if "kid" in question or "children" in question:
+        if aqi_value <= 100:
+            return "🟢 Kids can play outside safely."
+        elif aqi_value <= 200:
+            return "🟡 Outdoor time should be limited. No long play sessions."
+        else:
+            return "🔴 Kids should stay indoors. Very harmful AQI."
+
+    # Senior Citizens
+    if "senior" in question or "old" in question or "elder" in question:
+        if aqi_value <= 120:
+            return "🟢 Seniors can go for walks safely."
+        elif aqi_value <= 200:
+            return "🟡 Avoid morning/evening walks. Moderate risk."
+        else:
+            return "🔴 Seniors must stay indoors. Very unhealthy AQI."
+
+    # Health Patients
+    if "asthma" in question or "heart" in question or "copd" in question or "patient" in question:
+        if aqi_value <= 100:
+            return "🟢 Safe for sensitive groups."
+        elif aqi_value <= 200:
+            return "🟡 Asthma/heart patients should avoid outdoor activity."
+        else:
+            return "🔴 Danger! Patients must stay indoors."
+
+    # Default Answer
+    return "🤔 I didn't understand fully. Try asking: 'Should I go outside?', 'Which vehicle should I use?' or 'Is it safe for kids?'"
+
+
+if user_question:
+    st.subheader("💬 Assistant Answer:")
+    st.info(answer_question(user_question, aqi))
