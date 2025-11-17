@@ -1,0 +1,261 @@
+Station,Date,Time (IST),Gas,Concentration,Unit,Prescribed Standard,H
+Anand Vihar,2025-11-14 00:00:00,14:40:00,Ammonia,61.9,µg/m3,400,µg/m3
+Anand Vihar,2025-11-14 00:00:00,14:40:00,Benzene,4.4,µg/m3,5,µg/m3
+Anand Vihar,2025-11-14 00:00:00,14:40:00,Carbon Monoxide,2,mg/m3,4,mg/m3
+Anand Vihar,2025-11-14 00:00:00,14:40:00,Nitrogen Dioxide,53.1,µg/m3,80,µg/m3
+Anand Vihar,2025-11-14 00:00:00,14:40:00,Nitrogen Oxide,28.3,µg/m3,124.833333333333,µg/m3
+Anand Vihar,2025-11-14 00:00:00,14:40:00,Oxides of Nitrogen,51.7,ppb,124.833333333333,µg/m3
+Anand Vihar,2025-11-14 00:00:00,14:40:00,Ozone,7.2,µg/m3,180,µg/m3
+Anand Vihar,2025-11-14 00:00:00,14:40:00,p-Xylene,4.2,µg/m3,124.833333333333,µg/m3
+Anand Vihar,2025-11-14 00:00:00,14:40:00,Sulphur Dioxide,19.0,µg/m3,80,µg/m3
+Anand Vihar,2025-11-14 00:00:00,14:40:00,Toluene,31.1,µg/m3,124.833333333333,µg/m3
+Patparganj,2025-11-14 00:00:00,15:25:00,Ammonia,40.2,µg/m3,400,µg/m3
+Patparganj,2025-11-14 00:00:00,15:25:00,Benzene,1.3,µg/m3,5,µg/m3
+Patparganj,2025-11-14 00:00:00,15:25:00,Carbon Monoxide,0.8,mg/m3,4,µg/m3
+Patparganj,2025-11-14 00:00:00,15:25:00,Nitrogen Dioxide,28.3,µg/m3,80,µg/m3
+Patparganj,2025-11-14 00:00:00,15:25:00,Nitrogen Oxide,28.3,µg/m3,124.833333333333,µg/m3
+Patparganj,2025-11-14 00:00:00,15:25:00,Oxides of Nitrogen,28.3,ppb,124.833333333333,µg/m3
+Patparganj,2025-11-14 00:00:00,15:25:00,Ozone,148.8,µg/m3,180,µg/m3
+Patparganj,2025-11-14 00:00:00,15:25:00,p-Xylene,0.7,µg/m3,124.833333333333,µg/m3
+Patparganj,2025-11-14 00:00:00,15:25:00,Sulphur Dioxide,7.2,µg/m3,80,µg/m3
+Patparganj,2025-11-14 00:00:00,15:25:00,Toluene,4.3,µg/m3,124.833333333333,µg/m3
+Najafgarh,2025-11-14 00:00:00,15:30:00,Ammonia,34.7,µg/m3,400,µg/m3
+Najafgarh,2025-11-14 00:00:00,15:30:00,Benzene,0.9,µg/m3,5,µg/m3
+Najafgarh,2025-11-14 00:00:00,15:30:00,Carbon Monoxide,1,mg/m3,4,µg/m3
+Najafgarh,2025-11-14 00:00:00,15:30:00,Nitrogen Dioxide,118.6,µg/m3,80,µg/m3
+Najafgarh,2025-11-14 00:00:00,15:30:00,Nitrogen Oxide,6.5,µg/m3,124.833333333333,µg/m3
+Najafgarh,2025-11-14 00:00:00,15:30:00,Oxides of Nitrogen,68.4,ppb,124.833333333333,µg/m3
+Najafgarh,2025-11-14 00:00:00,15:30:00,Ozone,19,µg/m3,180,µg/m3
+Najafgarh,2025-11-14 00:00:00,15:30:00,p-Xylene,0.7,µg/m3,124.833333333333,µg/m3
+Najafgarh,2025-11-14 00:00:00,15:30:00,Sulphur Dioxide,26.8,µg/m3,80,µg/m3
+Najafgarh,2025-11-14 00:00:00,15:30:00,Toluene,2,µg/m3,124.833333333333,µg/m3
+"Dwarka, Sec-8",2025-11-14 00:00:00,15:20:00,Ammonia,61.4,µg/m3,400,µg/m3
+"Dwarka, Sec-8",2025-11-14 00:00:00,15:20:00,Benzene,2.3,µg/m3,5,µg/m3
+"Dwarka, Sec-8",2025-11-14 00:00:00,15:20:00,Carbon Monoxide,1.1,mg/m3,4,µg/m3
+"Dwarka, Sec-8",2025-11-14 00:00:00,15:20:00,Nitrogen Dioxide,53.4,µg/m3,80,µg/m3
+"Dwarka, Sec-8",2025-11-14 00:00:00,15:20:00,Nitrogen Oxide,3.9,µg/m3,124.833333333333,µg/m3
+"Dwarka, Sec-8",2025-11-14 00:00:00,15:20:00,Oxides of Nitrogen,31.6,ppb,124.833333333333,µg/m3
+"Dwarka, Sec-8",2025-11-14 00:00:00,15:20:00,Ozone,138.4,µg/m3,180,µg/m3
+"Dwarka, Sec-8",2025-11-14 00:00:00,15:20:00,p-Xylene,0.2,µg/m3,124.833333333333,µg/m3
+"Dwarka, Sec-8",2025-11-14 00:00:00,15:20:00,Sulphur Dioxide,25,µg/m3,80,µg/m3
+"Dwarka, Sec-8",2025-11-14 00:00:00,15:20:00,Toluene,6,µg/m3,124.833333333333,µg/m3
+Jawaharlal Nehru Stadium,2025-11-14 00:00:00,15:35:00,Ammonia,21.9,µg/m3,400,µg/m3
+Jawaharlal Nehru Stadium,2025-11-14 00:00:00,15:35:00,Benzene,0.5,µg/m3,5,µg/m3
+Jawaharlal Nehru Stadium,2025-11-14 00:00:00,15:35:00,Carbon Monoxide,1.1,mg/m3,4,µg/m3
+Jawaharlal Nehru Stadium,2025-11-14 00:00:00,15:35:00,Nitrogen Dioxide,41.1,µg/m3,80,µg/m3
+Jawaharlal Nehru Stadium,2025-11-14 00:00:00,15:35:00,Nitrogen Oxide,5.6,µg/m3,124.833333333333,µg/m3
+Jawaharlal Nehru Stadium,2025-11-14 00:00:00,15:35:00,Oxides of Nitrogen,26.3,ppb,124.833333333333,µg/m3
+Jawaharlal Nehru Stadium,2025-11-14 00:00:00,15:35:00,Ozone,170,µg/m3,180,µg/m3
+Jawaharlal Nehru Stadium,2025-11-14 00:00:00,15:35:00,p-Xylene,2.3,µg/m3,124.833333333333,µg/m3
+Jawaharlal Nehru Stadium,2025-11-14 00:00:00,15:35:00,Sulphur Dioxide,26.9,µg/m3,80,µg/m3
+Jawaharlal Nehru Stadium,2025-11-14 00:00:00,15:35:00,Toluene,41.8,µg/m3,124.833333333333,µg/m3
+R K Puram,2025-11-14 00:00:00,15:30:00,Ammonia,20.5,µg/m3,400,µg/m3
+R K Puram,2025-11-14 00:00:00,15:30:00,Benzene,0.2,µg/m3,5,µg/m3
+R K Puram,2025-11-14 00:00:00,15:30:00,Carbon Monoxide,1.2,mg/m3,4,µg/m3
+R K Puram,2025-11-14 00:00:00,15:30:00,Nitrogen Dioxide,43,µg/m3,80,µg/m3
+R K Puram,2025-11-14 00:00:00,15:30:00,Nitrogen Oxide,1.7,µg/m3,124.833333333333,µg/m3
+R K Puram,2025-11-14 00:00:00,15:30:00,Oxides of Nitrogen,24.3,ppb,124.833333333333,µg/m3
+R K Puram,2025-11-14 00:00:00,15:30:00,Ozone,135.7,µg/m3,180,µg/m3
+R K Puram,2025-11-14 00:00:00,15:30:00,p-Xylene,0,µg/m3,124.833333333333,µg/m3
+R K Puram,2025-11-14 00:00:00,15:30:00,Sulphur Dioxide,34,µg/m3,80,µg/m3
+R K Puram,2025-11-14 00:00:00,15:30:00,Toluene,1.8,µg/m3,124.833333333333,µg/m3
+Sri Aurobindo Marg,2025-11-14 00:00:00,15:30:00,Ammonia,20.7,µg/m3,400,µg/m3
+Sri Aurobindo Marg,2025-11-14 00:00:00,15:30:00,Benzene,2.3,µg/m3,5,µg/m3
+Sri Aurobindo Marg,2025-11-14 00:00:00,15:30:00,Carbon Monoxide,1,mg/m3,4,µg/m3
+Sri Aurobindo Marg,2025-11-14 00:00:00,15:30:00,Nitrogen Dioxide,25.1,µg/m3,80,µg/m3
+Sri Aurobindo Marg,2025-11-14 00:00:00,15:30:00,Nitrogen Oxide,7.6,µg/m3,124.833333333333,µg/m3
+Sri Aurobindo Marg,2025-11-14 00:00:00,15:30:00,Oxides of Nitrogen,19.6,ppb,124.833333333333,µg/m3
+Sri Aurobindo Marg,2025-11-14 00:00:00,15:30:00,Ozone,131.6,µg/m3,180,µg/m3
+Sri Aurobindo Marg,2025-11-14 00:00:00,15:30:00,p-Xylene,0,µg/m3,124.833333333333,µg/m3
+Sri Aurobindo Marg,2025-11-14 00:00:00,15:30:00,Sulphur Dioxide,14.4,µg/m3,80,µg/m3
+Sri Aurobindo Marg,2025-11-14 00:00:00,15:30:00,Toluene,11,µg/m3,124.833333333333,µg/m3
+Nehru Nagar,2025-11-14 00:00:00,15:35:00,Ammonia,36.2,µg/m3,400,µg/m3
+Nehru Nagar,2025-11-14 00:00:00,15:35:00,Benzene,1.5,µg/m3,5,µg/m3
+Nehru Nagar,2025-11-14 00:00:00,15:35:00,Carbon Monoxide,2.2,mg/m3,4,µg/m3
+Nehru Nagar,2025-11-14 00:00:00,15:35:00,Nitrogen Dioxide,46.6,µg/m3,80,µg/m3
+Nehru Nagar,2025-11-14 00:00:00,15:35:00,Nitrogen Oxide,28.3,µg/m3,124.833333333333,µg/m3
+Nehru Nagar,2025-11-14 00:00:00,15:35:00,Oxides of Nitrogen,24.1,ppb,124.833333333333,µg/m3
+Nehru Nagar,2025-11-14 00:00:00,15:35:00,Ozone,174.6,µg/m3,180,µg/m3
+Nehru Nagar,2025-11-14 00:00:00,15:35:00,p-Xylene,1.8,µg/m3,124.833333333333,µg/m3
+Nehru Nagar,2025-11-14 00:00:00,15:35:00,Sulphur Dioxide,16.2,µg/m3,80,µg/m3
+Nehru Nagar,2025-11-14 00:00:00,15:35:00,Toluene,17.5,µg/m3,124.833333333333,µg/m3
+Dr. Karni Singh Shooting Range,2025-11-14 00:00:00,15:30:00,Ammonia,30.8,µg/m3,400,µg/m3
+Dr. Karni Singh Shooting Range,2025-11-14 00:00:00,15:30:00,Benzene,0.3,µg/m3,5,µg/m3
+Dr. Karni Singh Shooting Range,2025-11-14 00:00:00,15:30:00,Carbon Monoxide,1.0,mg/m3,4,µg/m3
+Dr. Karni Singh Shooting Range,2025-11-14 00:00:00,15:30:00,Nitrogen Dioxide,60.8,µg/m3,80,µg/m3
+Dr. Karni Singh Shooting Range,2025-11-14 00:00:00,15:30:00,Nitrogen Oxide,12.1,µg/m3,124.833333333333,µg/m3
+Dr. Karni Singh Shooting Range,2025-11-14 00:00:00,15:30:00,Oxides of Nitrogen,41.9,ppb,124.833333333333,µg/m3
+Dr. Karni Singh Shooting Range,2025-11-14 00:00:00,15:30:00,Ozone,109.6,µg/m3,180,µg/m3
+Dr. Karni Singh Shooting Range,2025-11-14 00:00:00,15:30:00,p-Xylene,0.4,µg/m3,124.833333333333,µg/m3
+Dr. Karni Singh Shooting Range,2025-11-14 00:00:00,15:30:00,Sulphur Dioxide,27.6,µg/m3,80,µg/m3
+Dr. Karni Singh Shooting Range,2025-11-14 00:00:00,15:30:00,Toluene,0.3,µg/m3,124.833333333333,µg/m3
+Okhla Phase-2,2025-11-14 00:00:00,15:35:00,Ammonia,33.2,µg/m3,400,µg/m3
+Okhla Phase-2,2025-11-14 00:00:00,15:35:00,Benzene,1.2,µg/m3,5,µg/m3
+Okhla Phase-2,2025-11-14 00:00:00,15:35:00,Carbon Monoxide,1.2,mg/m3,4,µg/m3
+Okhla Phase-2,2025-11-14 00:00:00,15:35:00,Nitrogen Dioxide,70.0,µg/m3,80,µg/m3
+Okhla Phase-2,2025-11-14 00:00:00,15:35:00,Nitrogen Oxide,2.3,µg/m3,124.833333333333,µg/m3
+Okhla Phase-2,2025-11-14 00:00:00,15:35:00,Oxides of Nitrogen,39.1,ppb,124.833333333333,µg/m3
+Okhla Phase-2,2025-11-14 00:00:00,15:35:00,Ozone,171.2,µg/m3,180,µg/m3
+Okhla Phase-2,2025-11-14 00:00:00,15:35:00,p-Xylene,0.9,µg/m3,124.833333333333,µg/m3
+Okhla Phase-2,2025-11-14 00:00:00,15:35:00,Sulphur Dioxide,18.4,µg/m3,80,µg/m3
+Okhla Phase-2,2025-11-14 00:00:00,15:35:00,Toluene,10.4,µg/m3,124.833333333333,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Ammonia,35.6,µg/m3,400,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Benzene,1.8,µg/m3,5,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Carbon Monoxide,1.2,mg/m3,4,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Nitrogen Dioxide,65.2,µg/m3,80,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Nitrogen Oxide,9.4,µg/m3,124.833333333333,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Oxides of Nitrogen,42.3,ppb,124.833333333333,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Ozone,143.5,µg/m3,180,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,p-Xylene,0.0,µg/m3,124.833333333333,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Sulphur Dioxide,15.3,µg/m3,80,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Toluene,9.3,µg/m3,124.833333333333,µg/m3
+Mundka,2025-11-14 00:00:00,15:25:00,Ammonia,37.6,µg/m3,400,µg/m3
+Mundka,2025-11-14 00:00:00,15:25:00,Benzene,0.2,µg/m3,5,µg/m3
+Mundka,2025-11-14 00:00:00,15:25:00,Carbon Monoxide,0.7,mg/m3,4,µg/m3
+Mundka,2025-11-14 00:00:00,15:25:00,Nitrogen Dioxide,97.6,µg/m3,80,µg/m3
+Mundka,2025-11-14 00:00:00,15:25:00,Nitrogen Oxide,11.6,µg/m3,124.833333333333,µg/m3
+Mundka,2025-11-14 00:00:00,15:25:00,Oxides of Nitrogen,61.3,ppb,124.833333333333,µg/m3
+Mundka,2025-11-14 00:00:00,15:25:00,Ozone,95.6,µg/m3,180,µg/m3
+Mundka,2025-11-14 00:00:00,15:25:00,p-Xylene,2.9,µg/m3,124.833333333333,µg/m3
+Mundka,2025-11-14 00:00:00,15:25:00,Sulphur Dioxide,18.4,µg/m3,80,µg/m3
+Mundka,2025-11-14 00:00:00,15:25:00,Toluene,18.4,µg/m3,124.833333333333,µg/m3
+Punjabi Bagh,2025-11-14 00:00:00,15:25:00,Ammonia,16.6,µg/m3,400,µg/m3
+Punjabi Bagh,2025-11-14 00:00:00,15:25:00,Benzene,1.3,µg/m3,5,µg/m3
+Punjabi Bagh,2025-11-14 00:00:00,15:25:00,Carbon Monoxide,1.0,mg/m3,4,µg/m3
+Punjabi Bagh,2025-11-14 00:00:00,15:25:00,Nitrogen Dioxide,29.2,µg/m3,80,µg/m3
+Punjabi Bagh,2025-11-14 00:00:00,15:25:00,Nitrogen Oxide,1.3,µg/m3,124.833333333333,µg/m3
+Punjabi Bagh,2025-11-14 00:00:00,15:25:00,Oxides of Nitrogen,16.6,ppb,124.833333333333,µg/m3
+Punjabi Bagh,2025-11-14 00:00:00,15:25:00,Ozone,101.0,µg/m3,180,µg/m3
+Punjabi Bagh,2025-11-14 00:00:00,15:25:00,p-Xylene,0.7,µg/m3,124.833333333333,µg/m3
+Punjabi Bagh,2025-11-14 00:00:00,15:25:00,Sulphur Dioxide,11.4,µg/m3,80,µg/m3
+Punjabi Bagh,2025-11-14 00:00:00,15:25:00,Toluene,3.7,µg/m3,124.833333333333,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Ammonia,20.7,µg/m3,400,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Benzene,0.4,µg/m3,5,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Carbon Monoxide,0.6,mg/m3,4,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Nitrogen Dioxide,23.0,µg/m3,80,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Nitrogen Oxide,2.3,µg/m3,124.833333333333,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Oxides of Nitrogen,14.3,ppb,124.833333333333,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Ozone,177.5,µg/m3,180,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,p-Xylene,4.7,µg/m3,124.833333333333,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Sulphur Dioxide,9.2,µg/m3,80,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Toluene,10.8,µg/m3,124.833333333333,µg/m3
+Vivek Vihar,2025-11-14 00:00:00,15:25:00,Ammonia,45.4,µg/m3,400,µg/m3
+Vivek Vihar,2025-11-14 00:00:00,15:25:00,Benzene,2.1,µg/m3,5,µg/m3
+Vivek Vihar,2025-11-14 00:00:00,15:25:00,Carbon Monoxide,1.1,mg/m3,4,µg/m3
+Vivek Vihar,2025-11-14 00:00:00,15:25:00,Nitrogen Dioxide,29.4,µg/m3,80,µg/m3
+Vivek Vihar,2025-11-14 00:00:00,15:25:00,Nitrogen Oxide,2.2,µg/m3,124.833333333333,µg/m3
+Vivek Vihar,2025-11-14 00:00:00,15:25:00,Oxides of Nitrogen,17.5,ppb,124.833333333333,µg/m3
+Vivek Vihar,2025-11-14 00:00:00,15:25:00,Ozone,37.7,µg/m3,180,µg/m3
+Vivek Vihar,2025-11-14 00:00:00,15:25:00,p-Xylene,1.7,µg/m3,124.833333333333,µg/m3
+Vivek Vihar,2025-11-14 00:00:00,15:25:00,Sulphur Dioxide,18.4,µg/m3,80,µg/m3
+Vivek Vihar,2025-11-14 00:00:00,15:25:00,Toluene,34.8,µg/m3,124.833333333333,µg/m3
+Pusa,2025-11-14 00:00:00,15:20:00,Ammonia,37.3,µg/m3,400,µg/m3
+Pusa,2025-11-14 00:00:00,15:20:00,Benzene,4.7,µg/m3,5,µg/m3
+Pusa,2025-11-14 00:00:00,15:20:00,Carbon Monoxide,1.8,mg/m3,4,µg/m3
+Pusa,2025-11-14 00:00:00,15:20:00,Nitrogen Dioxide,160.1,µg/m3,80,µg/m3
+Pusa,2025-11-14 00:00:00,15:20:00,Nitrogen Oxide,50.5,µg/m3,124.833333333333,µg/m3
+Pusa,2025-11-14 00:00:00,15:20:00,Oxides of Nitrogen,125.2,ppb,124.833333333333,µg/m3
+Pusa,2025-11-14 00:00:00,15:20:00,Ozone,33.9,µg/m3,180,µg/m3
+Pusa,2025-11-14 00:00:00,15:20:00,p-Xylene,10.7,µg/m3,124.833333333333,µg/m3
+Pusa,2025-11-14 00:00:00,15:20:00,Sulphur Dioxide,22.2,µg/m3,80,µg/m3
+Pusa,2025-11-14 00:00:00,15:20:00,Toluene,13.8,µg/m3,124.833333333333,µg/m3
+Major Dhyan Chand National Stadium,2025-11-14 00:00:00,15:20:00,Ammonia,69.8,µg/m3,400,µg/m3
+Major Dhyan Chand National Stadium,2025-11-14 00:00:00,15:20:00,Benzene,1.6,µg/m3,5,µg/m3
+Major Dhyan Chand National Stadium,2025-11-14 00:00:00,15:20:00,Carbon Monoxide,0.9,mg/m3,4,µg/m3
+Major Dhyan Chand National Stadium,2025-11-14 00:00:00,15:20:00,Nitrogen Dioxide,39.1,µg/m3,80,µg/m3
+Major Dhyan Chand National Stadium,2025-11-14 00:00:00,15:20:00,Nitrogen Oxide,3.9,µg/m3,124.833333333333,µg/m3
+Major Dhyan Chand National Stadium,2025-11-14 00:00:00,15:20:00,Oxides of Nitrogen,23.9,ppb,124.833333333333,µg/m3
+Major Dhyan Chand National Stadium,2025-11-14 00:00:00,15:20:00,Ozone,106.3,µg/m3,180,µg/m3
+Major Dhyan Chand National Stadium,2025-11-14 00:00:00,15:20:00,p-Xylene,0.1,µg/m3,124.833333333333,µg/m3
+Major Dhyan Chand National Stadium,2025-11-14 00:00:00,15:20:00,Sulphur Dioxide,24.5,µg/m3,80,µg/m3
+Major Dhyan Chand National Stadium,2025-11-14 00:00:00,15:20:00,Toluene,5.6,µg/m3,124.833333333333,µg/m3
+Mandir Marg,2025-11-14 00:00:00,15:25:00,Ammonia,80.8,µg/m3,400,µg/m3
+Mandir Marg,2025-11-14 00:00:00,15:25:00,Benzene,0.9,µg/m3,5,µg/m3
+Mandir Marg,2025-11-14 00:00:00,15:25:00,Carbon Monoxide,0.8,mg/m3,4,µg/m3
+Mandir Marg,2025-11-14 00:00:00,15:25:00,Nitrogen Dioxide,0.7,µg/m3,80,µg/m3
+Mandir Marg,2025-11-14 00:00:00,15:25:00,Nitrogen Oxide,9.1,µg/m3,124.833333333333,µg/m3
+Mandir Marg,2025-11-14 00:00:00,15:25:00,Oxides of Nitrogen,9.9,ppb,124.833333333333,ppb
+Mandir Marg,2025-11-14 00:00:00,15:25:00,Ozone,109.9,µg/m3,180,µg/m3
+Mandir Marg,2025-11-14 00:00:00,15:25:00,p-Xylene,0.8,µg/m3,124.833333333333,µg/m3
+Mandir Marg,2025-11-14 00:00:00,15:25:00,Sulphur Dioxide,29.4,µg/m3,80,µg/m3
+Mandir Marg,2025-11-14 00:00:00,15:25:00,Toluene,1.8,µg/m3,124.833333333333,µg/m3
+Narela,2025-11-14 00:00:00,15:20:00,Ammonia,58.7,µg/m3,400,µg/m3
+Narela,2025-11-14 00:00:00,15:20:00,Benzene,0.7,µg/m3,5,µg/m3
+Narela,2025-11-14 00:00:00,15:20:00,Carbon Monoxide,1.2,mg/m3,4,µg/m3
+Narela,2025-11-14 00:00:00,15:20:00,Nitrogen Dioxide,13.5,µg/m3,80,µg/m3
+Narela,2025-11-14 00:00:00,15:20:00,Nitrogen Oxide,5.7,µg/m3,124.833333333333,µg/m3
+Narela,2025-11-14 00:00:00,15:20:00,Oxides of Nitrogen,11.8,ppb,124.833333333333,ppb
+Narela,2025-11-14 00:00:00,15:20:00,Ozone,130.9,µg/m3,180,µg/m3
+Narela,2025-11-14 00:00:00,15:20:00,p-Xylene,0.1,µg/m3,124.833333333333,µg/m3
+Narela,2025-11-14 00:00:00,15:20:00,Sulphur Dioxide,16.7,µg/m3,80,µg/m3
+Narela,2025-11-14 00:00:00,15:20:00,Toluene,157.8,µg/m3,124.833333333333,µg/m3
+Alipur,2025-11-14 00:00:00,15:20:00,Ammonia,11.1,µg/m3,400,µg/m3
+Alipur,2025-11-14 00:00:00,15:20:00,Benzene,120.2,µg/m3,5,µg/m3
+Alipur,2025-11-14 00:00:00,15:20:00,Carbon Monoxide,0.9,mg/m3,4,µg/m3
+Alipur,2025-11-14 00:00:00,15:20:00,Nitrogen Dioxide,56.5,µg/m3,80,µg/m3
+Alipur,2025-11-14 00:00:00,15:20:00,Nitrogen Oxide,3.5,µg/m3,124.833333333333,µg/m3
+Alipur,2025-11-14 00:00:00,15:20:00,Oxides of Nitrogen,32.9,ppb,124.833333333333,ppb
+Alipur,2025-11-14 00:00:00,15:20:00,Ozone,28.3,µg/m3,180,µg/m3
+Alipur,2025-11-14 00:00:00,15:20:00,p-Xylene,0,µg/m3,124.833333333333,µg/m3
+Alipur,2025-11-14 00:00:00,15:20:00,Sulphur Dioxide,10.3,µg/m3,80,µg/m3
+Alipur,2025-11-14 00:00:00,15:20:00,Toluene,4.6,µg/m3,124.833333333333,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Ammonia,20.7,µg/m3,400,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Benzene,0.4,µg/m3,5,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Carbon Monoxide,0.6,mg/m3,4,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Nitrogen Dioxide,23,µg/m3,80,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Nitrogen Oxide,2.3,µg/m3,124.833333333333,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Oxides of Nitrogen,14.3,ppb,124.833333333333,ppb
+Rohini,2025-11-14 00:00:00,15:30:00,Ozone,177.5,µg/m3,180,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,p-Xylene,4.7,µg/m3,124.833333333333,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Sulphur Dioxide,9.2,µg/m3,80,µg/m3
+Rohini,2025-11-14 00:00:00,15:30:00,Toluene,10.8,µg/m3,124.833333333333,µg/m3
+"Pooth Khurd, Bawana",2025-11-14 00:00:00,15:20:00,Ammonia,28.3,µg/m3,400,µg/m3
+"Pooth Khurd, Bawana",2025-11-14 00:00:00,15:20:00,Benzene,0.1,µg/m3,5,µg/m3
+"Pooth Khurd, Bawana",2025-11-14 00:00:00,15:20:00,Carbon Monoxide,0.8,mg/m3,4,µg/m3
+"Pooth Khurd, Bawana",2025-11-14 00:00:00,15:20:00,Nitrogen Dioxide,5,µg/m3,80,µg/m3
+"Pooth Khurd, Bawana",2025-11-14 00:00:00,15:20:00,Nitrogen Oxide,1,µg/m3,124.833333333333,µg/m3
+"Pooth Khurd, Bawana",2025-11-14 00:00:00,15:20:00,Oxides of Nitrogen,6,ppb,124.833333333333,ppb
+"Pooth Khurd, Bawana",2025-11-14 00:00:00,15:20:00,Ozone,71.6,µg/m3,180,µg/m3
+"Pooth Khurd, Bawana",2025-11-14 00:00:00,15:20:00,p-Xylene,0,µg/m3,124.833333333333,µg/m3
+"Pooth Khurd, Bawana",2025-11-14 00:00:00,15:20:00,Sulphur Dioxide,4,µg/m3,80,µg/m3
+"Pooth Khurd, Bawana",2025-11-14 00:00:00,15:20:00,Toluene,0.2,µg/m3,124.833333333333,µg/m3
+Jahangirpuri,2025-11-14 00:00:00,15:15:00,Ammonia,23.3,µg/m3,400,µg/m3
+Jahangirpuri,2025-11-14 00:00:00,15:15:00,Benzene,1,µg/m3,5,µg/m3
+Jahangirpuri,2025-11-14 00:00:00,15:15:00,Carbon Monoxide,1.1,mg/m3,4,µg/m3
+Jahangirpuri,2025-11-14 00:00:00,15:15:00,Nitrogen Dioxide,55,µg/m3,80,µg/m3
+Jahangirpuri,2025-11-14 00:00:00,15:15:00,Nitrogen Oxide,5.8,µg/m3,124.833333333333,µg/m3
+Jahangirpuri,2025-11-14 00:00:00,15:15:00,Oxides of Nitrogen,34,ppb,124.833333333333,ppb
+Jahangirpuri,2025-11-14 00:00:00,15:15:00,Ozone,110.9,µg/m3,180,µg/m3
+Jahangirpuri,2025-11-14 00:00:00,15:15:00,p-Xylene,0.7,µg/m3,124.833333333333,µg/m3
+Jahangirpuri,2025-11-14 00:00:00,15:15:00,Sulphur Dioxide,14.1,µg/m3,80,µg/m3
+Jahangirpuri,2025-11-14 00:00:00,15:15:00,Toluene,3.9,µg/m3,124.833333333333,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Ammonia,35.6,µg/m3,400,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Benzene,1.8,µg/m3,5,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Carbon Monoxide,1.2,mg/m3,4,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Nitrogen Dioxide,65.2,µg/m3,80,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Nitrogen Oxide,9.4,µg/m3,124.833333333333,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Oxides of Nitrogen,42.3,ppb,124.833333333333,ppb
+Wazirpur,2025-11-14 00:00:00,14:15:00,Ozone,143.5,µg/m3,180,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,p-Xylene,0,µg/m3,124.833333333333,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Sulphur Dioxide,15.3,µg/m3,80,µg/m3
+Wazirpur,2025-11-14 00:00:00,14:15:00,Toluene,9.3,µg/m3,124.833333333333,µg/m3
+Ashok Vihar,2025-11-14 00:00:00,15:25:00,Ammonia,5.4,µg/m3,400,µg/m3
+Ashok Vihar,2025-11-14 00:00:00,15:25:00,Benzene,0.4,µg/m3,5,µg/m3
+Ashok Vihar,2025-11-14 00:00:00,15:25:00,Carbon Monoxide,1,mg/m3,4,µg/m3
+Ashok Vihar,2025-11-14 00:00:00,15:25:00,Nitrogen Dioxide,43.1,µg/m3,80,µg/m3
+Ashok Vihar,2025-11-14 00:00:00,15:25:00,Nitrogen Oxide,4,µg/m3,124.833333333333,µg/m3
+Ashok Vihar,2025-11-14 00:00:00,15:25:00,Oxides of Nitrogen,26.2,ppb,124.833333333333,ppb
+Ashok Vihar,2025-11-14 00:00:00,15:25:00,Ozone,115.2,µg/m3,180,µg/m3
+Ashok Vihar,2025-11-14 00:00:00,15:25:00,p-Xylene,0.2,µg/m3,124.833333333333,µg/m3
+Ashok Vihar,2025-11-14 00:00:00,15:25:00,Sulphur Dioxide,17.4,µg/m3,80,µg/m3
+Ashok Vihar,2025-11-14 00:00:00,15:25:00,Toluene,1.4,µg/m3,124.833333333333,µg/m3
+Sonia Vihar,2025-11-14 00:00:00,15:20:00,Ammonia,27.8,µg/m3,400,µg/m3
+Sonia Vihar,2025-11-14 00:00:00,15:20:00,Benzene,2.4,µg/m3,5,µg/m3
+Sonia Vihar,2025-11-14 00:00:00,15:20:00,Carbon Monoxide,0.9,mg/m3,4,µg/m3
+Sonia Vihar,2025-11-14 00:00:00,15:20:00,Nitrogen Dioxide,24.9,µg/m3,80,µg/m3
+Sonia Vihar,2025-11-14 00:00:00,15:20:00,Nitrogen Oxide,1.1,µg/m3,124.833333333333,µg/m3
+Sonia Vihar,2025-11-14 00:00:00,15:20:00,Oxides of Nitrogen,14.1,ppb,124.833333333333,ppb
+Sonia Vihar,2025-11-14 00:00:00,15:20:00,Ozone,169.5,µg/m3,180,µg/m3
+Sonia Vihar,2025-11-14 00:00:00,15:20:00,p-Xylene,1.0,µg/m3,124.833333333333,µg/m3
+Sonia Vihar,2025-11-14 00:00:00,15:20:00,Sulphur Dioxide,15.9,µg/m3,80,µg/m3
+Sonia Vihar,2025-11-14 00:00:00,15:20:00,Toluene,7,µg/m3,124.833333333333,µg/m3
