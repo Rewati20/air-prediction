@@ -8,18 +8,6 @@ Original file is located at
 """
 
 import streamlit as st
-import streamlit as st
-import numpy as np
-import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import train_test_split
-import folium
-from streamlit_folium import st_folium
-
-!pip install streamlit
-!pip install streamlit-folium
-
-import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
