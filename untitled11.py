@@ -162,6 +162,9 @@ ax.legend()
 st.pyplot(fig)
 
 st.success("Dashboard Loaded Successfully 🚀")
+accuracy = r2_score(df["AQI"], df["Predicted_AQI"]) * 100
+st.write(f"📊 **Model Accuracy:** {accuracy:.2f}%")
+
 
 # -------------------------------------------------------------
 # ⭐ WOW FEATURE: AI QUESTION BOX (ASK ANYTHING ABOUT GOING OUTSIDE)
@@ -227,3 +230,4 @@ def answer_question(question, aqi_value):
 if user_question:
     st.subheader("💬 Assistant Answer:")
     st.info(answer_question(user_question, aqi))
+
