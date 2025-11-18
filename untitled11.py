@@ -162,8 +162,7 @@ ax.legend()
 st.pyplot(fig)
 
 st.success("Dashboard Loaded Successfully 🚀")
-accuracy = r2_score(df["AQI"], df["Predicted_AQI"]) * 100
-st.write(f"📊 **Model Accuracy:** {accuracy:.2f}%")
+
 
 
 # -------------------------------------------------------------
